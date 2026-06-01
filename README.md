@@ -2,6 +2,11 @@
 
 Sheeto (formerly Local-to-Sheets) is a Python utility to authenticate and sync files to Google Drive.
 
+## 🚀 Download Ready-to-Use Software
+Don't want to deal with the hassle of installing Python, managing dependencies, and setting up environments? 
+You can download the pre-packaged executable software for Mac and Windows directly from Gumroad:
+👉 **[Download Sheeto on Gumroad](https://6014760986164.gumroad.com/l/sheeto)**
+
 ## Features
 - Google Drive OAuth2 authentication flow.
 - Ensures the application only has access to the files it creates (`drive.file` scope).
@@ -38,5 +43,8 @@ pyinstaller --onefile main.py
 ```
 *(You may use the included `.spec` files depending on your needs).*
 
-## Author
-[Mohammed Sannan](https://www.linkedin.com/in/mohammedsannan/)
+## Author & Support
+**Mohammed Sannan**
+
+If you have any questions, want to suggest improvements, or just want to connect, feel free to reach out to me on LinkedIn!
+👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/mohammedsannan/)
