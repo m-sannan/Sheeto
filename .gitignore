@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Secrets and Google API tokens
+credentials.json
+token.json
+
+# Build outputs
+build/
+dist/
+
+# Mac OS
+.DS_Store
+
+# User-specific testing files
+test.xlsx
